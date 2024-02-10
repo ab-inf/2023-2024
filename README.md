@@ -9,6 +9,8 @@ Questa repository contiene il materiale utilizzato per il corso [Abilità inform
 ### Materiale
 Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna.
 
-1. Introduzione
-   * slide: [Google Slides](#)
-   <hr />
+#### 00: Introduzione
+Slide: [Google Slides](#)
+
+#### 01: Pensiero computazionale
+Slide: [Google Slides](#)
