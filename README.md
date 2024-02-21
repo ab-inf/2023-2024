@@ -10,25 +10,25 @@ Questa repository contiene il materiale utilizzato per il corso [Abilità inform
 Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna.
 
 #### 00: Introduzione
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
 
 #### 01: Pensiero computazionale
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
 
 #### 02: Gestione dei dati
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
 
 #### 03: Modellazione dei dati
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
 
 #### 04: Internet e World Wide Web
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
 
 #### 05: Digital Humanities
-Slide: [Google Slides](#)
-PDF: [Download](#)
+* Slide: [Google Slides](#)
+* PDF: [Download](#)
