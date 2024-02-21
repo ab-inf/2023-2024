@@ -9,6 +9,7 @@ Questa repository contiene il materiale utilizzato per il corso [Abilità inform
 Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna.
 
 ### 00: Introduzione
+Informazioni generali sul corso: materiali, organizzazione, contenuti, esame.
 * Slide: [Google Slides](#)
 * PDF: [Download](#)
 
