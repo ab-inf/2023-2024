@@ -10,7 +10,7 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 
 ### 00: Introduzione
 Informazioni generali sul corso: materiali, organizzazione, contenuti, esame.
-* Slide: [Google Slides](#)
+* Slide: [Google Slides](https://docs.google.com/presentation/d/1p-7EZ7tsnlpEuVOzFB3oFt0S5815NdtlOki-uRY5KXI/edit?usp=sharing)
 * PDF: [Download](#)
 
 ### 01: Pensiero computazionale
