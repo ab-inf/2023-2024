@@ -21,11 +21,11 @@ Informazioni generali sul corso: materiali, organizzazione, contenuti, esame.
 * Slide: [Google Slides](#)
 * PDF: [Download](#)
 
-### 03: Modellazione dei dati
+### 03: Internet e World Wide Web
 * Slide: [Google Slides](#)
 * PDF: [Download](#)
 
-### 04: Internet e World Wide Web
+### 04: Modellazione dei dati
 * Slide: [Google Slides](#)
 * PDF: [Download](#)
 
