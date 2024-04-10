@@ -13,16 +13,16 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | Data | Orario | Titolo | Descrizione | Materiale |
 |------|--------|--------|-------------|-----------|
 | Martedì, 16 aprile 2024 | 13:00 - 16:00 | 00: Introduzione | Informazioni generali sul corso: materiali, organizzazione, contenuti, esame | [Slide (PDF)](docs/slides/00_intro.pdf) |
-| Martedì, 16 aprile 2024 | 13:00 - 16:00 | 01: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [Slide (PDF)](docs/slides/01_comp-think.pdf) |
-| Venerdì, 19 aprile 2024 | 13:00 - 16:00 | 01: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [Slide (PDF)](docs/slides/01_comp-think.pdf) |
-| Martedì, 23 aprile 2024 | 13:00 - 16:00 | 02: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [Slide (PDF)](docs/slides/02_data-mngmt.pdf) |
-| Venerdì, 3 maggio 2024 | 13:00 - 16:00 | 02: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [Slide (PDF)](docs/slides/02_data-mngmt.pdf) |
-| Martedì, 7 maggio 2024 | 13:00 - 16:00 | 03: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | [Slide (PDF)](docs/slides/03_internet-web.pdf) |
-| Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 03: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | [Slide (PDF)](docs/slides/03_internet-web.pdf) |
-| Martedì, 14 maggio 2024 | 13:00 - 16:00 | 04: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [Slide (PDF)](docs/slides/04_data-model.pdf) |
-| Venerdì, 17 maggio 2024 | 13:00 - 16:00 | 04: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [Slide (PDF)](docs/slides/04_data-model.pdf) |
-| Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | [Slide (PDF)](docs/slides/05_dh.pdf) |
-| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 05: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | [Slide (PDF)](docs/slides/05_dh.pdf) |
+| Martedì, 16 aprile 2024 | 13:00 - 16:00 | 01a: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [Slide (PDF)](docs/slides/01_comp-think.pdf) |
+| Venerdì, 19 aprile 2024 | 13:00 - 16:00 | 01b: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [Slide (PDF)](docs/slides/01_comp-think.pdf) |
+| Martedì, 23 aprile 2024 | 13:00 - 16:00 | 02a: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [Slide (PDF)](docs/slides/02_data-mngmt.pdf) |
+| Venerdì, 03 maggio 2024 | 13:00 - 16:00 | 02b: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [Slide (PDF)](docs/slides/02_data-mngmt.pdf) |
+| Martedì, 07 maggio 2024 | 13:00 - 16:00 | 03a: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | [Slide (PDF)](docs/slides/03_internet-web.pdf) |
+| Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 03b: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | [Slide (PDF)](docs/slides/03_internet-web.pdf) |
+| Martedì, 14 maggio 2024 | 13:00 - 16:00 | 04a: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [Slide (PDF)](docs/slides/04_data-model.pdf) |
+| Venerdì, 17 maggio 2024 | 13:00 - 16:00 | 04b: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [Slide (PDF)](docs/slides/04_data-model.pdf) |
+| Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05a: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | [Slide (PDF)](docs/slides/05_dh.pdf) |
+| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 05b: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | [Slide (PDF)](docs/slides/05_dh.pdf) |
 
 ***
 
