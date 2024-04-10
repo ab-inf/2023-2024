@@ -2,10 +2,10 @@
 Questa repository contiene il materiale utilizzato per il corso [Abilità informatiche]([https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/393680](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/455803)) della Laurea in Beni Culturali e della Laurea in Società e culture del Mediterraneo: istituzioni, sicurezza, ambiente dell'[Università di Bologna](http://www.unibo.it).
 
 ## Indice
-1. [Materiale](#materiale)
-2. [Calendario](#calendario)
+1. [Lezioni](#lezioni)
+2. [Esami](#esami)
 
-## Materiale
+## Lezioni
 Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna.
 
 ### 00: Introduzione
@@ -32,3 +32,13 @@ Informazioni generali sul corso: materiali, organizzazione, contenuti, esame.
 ### 05: Digital Humanities
 * Slide: [Google Slides](#)
 * PDF: [Download](#)
+
+## Calendario
+| Data | Ora | Luogo | Note |
+|------|-----|-------|------|
+| 11 giugno 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 11 giugno 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 16 luglio 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 16 luglio 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 12 settembre 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 08 ottobre 2024 | 16:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | DA CONFERMARE |
