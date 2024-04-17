@@ -13,10 +13,10 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | Data | Orario | Titolo | Descrizione | Materiale |
 |------|--------|--------|-------------|-----------|
 | Martedì, 16 aprile 2024 | 13:00 - 16:00 | 00: Introduzione | Informazioni generali sul corso: materiali, organizzazione, contenuti, esame | [PDF](docs/slides/00_intro.pdf) - [Link](https://docs.google.com/presentation/d/142CbdGWNcUsOqhYuIJxT32_KusqinISKKF-vomKt9Gc/edit?usp=sharing) |
-| Martedì, 16 aprile 2024 | 13:00 - 16:00 | 01a: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [PDF](docs/slides/01_comp-think.pdf) - [Link](https://docs.google.com/presentation/d/1U5Z92UQsBTTEqTxCEuEueJk0mlMITumd_hPnXnXMsK4/edit?usp=sharing) |
-| Venerdì, 19 aprile 2024 | 13:00 - 16:00 | 01b: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [PDF](docs/slides/01_comp-think.pdf) - [Link](https://docs.google.com/presentation/d/1U5Z92UQsBTTEqTxCEuEueJk0mlMITumd_hPnXnXMsK4/edit?usp=sharing) |
-| Martedì, 23 aprile 2024 | 13:00 - 16:00 | 02a: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
-| Venerdì, 03 maggio 2024 | 13:00 - 16:00 | 02b: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
+| Martedì, 16 aprile 2024 | 13:00 - 16:00 | 01: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [PDF](docs/slides/01_comp-think.pdf) - [Link](https://docs.google.com/presentation/d/1U5Z92UQsBTTEqTxCEuEueJk0mlMITumd_hPnXnXMsK4/edit?usp=sharing) |
+| Venerdì, 19 aprile 2024 | 13:00 - 16:00 | 02a: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
+| Martedì, 23 aprile 2024 | 13:00 - 16:00 | 02b: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
+| Venerdì, 03 maggio 2024 | 13:00 - 16:00 | 02c: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
 | Martedì, 07 maggio 2024 | 13:00 - 16:00 | 03a: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | - |
 | Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 03b: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | - |
 | Martedì, 14 maggio 2024 | 13:00 - 16:00 | 04a: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | - |
