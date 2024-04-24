@@ -32,6 +32,6 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | 11 giugno 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
 | 11 giugno 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
 | 16 luglio 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 16 luglio 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
+| 16 luglio 2024 | 14:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
 | 12 settembre 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
 | 08 ottobre 2024 | 16:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | DA CONFERMARE |
