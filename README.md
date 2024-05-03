@@ -16,9 +16,9 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | Martedì, 16 aprile 2024 | 13:00 - 16:00 | 01: Pensiero computazionale | Principi del pensiero computazionale: computer e computazione, algoritmi, astrazione | [PDF](docs/slides/01_comp-think.pdf) - [Link](https://docs.google.com/presentation/d/1U5Z92UQsBTTEqTxCEuEueJk0mlMITumd_hPnXnXMsK4/edit?usp=sharing) |
 | Venerdì, 19 aprile 2024 | 13:00 - 16:00 | 02a: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [PDF](docs/slides/02a_data-mana.pdf) - [Link](https://docs.google.com/presentation/d/19S-8VE-6GfbYDzY1WfBGOvfL9Y91qqP9__cvrRpnT-g/edit?usp=sharing) |
 | Martedì, 23 aprile 2024 | 13:00 - 16:00 | 02b: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | [PDF](docs/slides/02b_data-mana.pdf) - [Link](https://docs.google.com/presentation/d/1CohW8xsfk6Y91Qm-JMFn5bdoFZDBWRElIRNZfyHtLzg/edit?usp=sharing) |
-| Venerdì, 03 maggio 2024 | 13:00 - 16:00 | 02c: Gestione dei dati | Principi di gestione dei dati: dati, metadati, documentazione | - |
-| Martedì, 07 maggio 2024 | 13:00 - 16:00 | 03a: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | - |
-| Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 03b: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | - |
+| Venerdì, 03 maggio 2024 | 13:00 - 16:00 | 03a: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | [PDF](docs/slides/03a_internet-www.pdf) - [Link](https://docs.google.com/presentation/d/1oDiqUJ5mZT7qph4ooOAKDAFc0WqYVE_dWdl_tG-7pu8/edit?usp=sharing) |
+| Martedì, 07 maggio 2024 | 13:00 - 16:00 | 03b: Internet e World Wide Web | Informazioni generali su Internet, World Wide Web, e tecnologie che li caratterizzano | - |
+| Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 04: Digital literacy | - | - |
 | Martedì, 14 maggio 2024 | 13:00 - 16:00 | 04a: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | - |
 | Venerdì, 17 maggio 2024 | 13:00 - 16:00 | 04b: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | - |
 | Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05a: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | - |
