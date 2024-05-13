@@ -21,17 +21,17 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | Venerdì, 10 maggio 2024 | 13:00 - 16:00 | 04: Digital literacy | - | - |
 | Martedì, 14 maggio 2024 | 13:00 - 16:00 | 04a: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | - |
 | Venerdì, 17 maggio 2024 | 13:00 - 16:00 | 04b: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | - |
-| Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05a: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | - |
-| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 05b: Digital Humanities | Informazioni generali su Digital Humanities, prospettive, e Open Science | - |
+| Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05a: Digital Humanities | Informazioni generali su Digital Humanities, prospettive | - |
+| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 05b: Digital Humanities | Informazioni generali su Digital Humanities, prospettive | - |
 
 ***
 
 ## Esami
 | Data | Ora | Luogo | Note |
 |------|-----|-------|------|
-| 11 giugno 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 11 giugno 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 16 luglio 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 16 luglio 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 12 settembre 2024 | 14:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | |
-| 08 ottobre 2024 | 16:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | DA CONFERMARE |
+| 11 giugno 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Primo appello, primo turno |
+| 11 giugno 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Primo appello, secondo turno |
+| 16 luglio 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Secondo appello, primo turno |
+| 16 luglio 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Secondo appello, secondo turno |
+| 12 settembre 2024 | 14:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Terzo appello |
+| 08 ottobre 2024 | 16:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | **DA CONFERMARE** Quarto appello |
