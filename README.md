@@ -22,7 +22,7 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 | Martedì, 14 maggio 2024 | 13:00 - 16:00 | 05a: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [PDF](docs/slides/05a_data_model.pdf) - [Link](https://docs.google.com/presentation/d/1FRJh-Fq-JObyOnCtwmOVjfpA5RGnjGlSkir7ESQmZ5o/edit?usp=sharing) |
 | Venerdì, 17 maggio 2024 | 13:00 - 16:00 | 05b: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [PDF](docs/slides/05b_data_model.pdf) - [Link](https://docs.google.com/presentation/d/1CQog6N773zzXgdzCGIc21c0s8zP5L8WizP9c6MkFqiI/edit?usp=sharing) |
 | Martedì, 21 maggio 2024 | 13:00 - 16:00 | 05c: Modellazione dei dati | Principi di modellazione dei dati: modelli, database, Semantic Web | [PDF](docs/slides/05c_data_model.pdf) - [Link](https://docs.google.com/presentation/d/1NY4Bt1XihjW8a3A3jjfrgJBxjBMMczCkp7NQsWXFvX0/edit?usp=sharing) |
-| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 06: Digital Humanities | Informazioni generali su Digital Humanities: progetti e prospettive | - |
+| Venerdì, 24 maggio 2024 | 13:00 - 16:00 | 06: Digital Humanities | Informazioni generali su Digital Humanities: progetti e prospettive | [PDF](docs/slides/06_digital_humanities.pdf) - [Link](https://docs.google.com/presentation/d/127WXu7DOkTYlynRD3ube3KJH4okZNxDTTgs5MyCfUH8/edit?usp=sharing) |
 
 ***
 
