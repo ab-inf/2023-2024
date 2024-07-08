@@ -31,7 +31,7 @@ Il materiale del corso è disponibile anche sulla piattaforma di [Virtuale](http
 |------|-----|-------|------|
 | 11 giugno 2024 | 14:30 | Laboratorio informatico, sede Ex-Seminario, Via Oberdan 1 - Ravenna | Primo appello, primo turno |
 | 11 giugno 2024 | 16:30 | Laboratorio informatico, sede Ex-Seminario, Via Oberdan 1 - Ravenna | Primo appello, secondo turno |
-| 16 luglio 2024 | 10:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Secondo appello, primo turno |
-| 16 luglio 2024 | 12:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Secondo appello, secondo turno |
+| 16 luglio 2024 | 10:00 | Laboratorio informatico, sede Ex-Seminario, Via Oberdan 1 - Ravenna | Secondo appello, primo turno |
+| 16 luglio 2024 | 12:00 | Laboratorio informatico, sede Ex-Seminario, Via Oberdan 1 - Ravenna | Secondo appello, secondo turno |
 | 12 settembre 2024 | 14:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | Terzo appello |
 | 08 ottobre 2024 | 16:00 | Laboratorio didattico, Palazzo Corradini, Via Mariani 5 - 48121 Ravenna | **DA CONFERMARE** Quarto appello |
